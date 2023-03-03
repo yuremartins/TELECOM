@@ -1,4 +1,4 @@
-<h1 align="center">TELECON</h1>
+<h1 align="center">TELECOM</h1>
 <h1 align="left">Análise de Dados com Python</h1>
 
 ## Motivação:
